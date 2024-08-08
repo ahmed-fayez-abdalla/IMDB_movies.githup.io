@@ -234,7 +234,11 @@ This section is the core of the document, where we discuss each question, here a
 
 
 
-![Unique Values from Genre](assets/images/22.png)
+![Unique Values from Genre](assets/images/22-1.png)
+
+
+
+![Unique Values from Genre](assets/images/22-2.png)
 
 
 
