@@ -14,6 +14,15 @@ Through data preprocessing and exploratory data analysis, we will address specif
 
 
 
+## Data Source
+
+
+- Where is the data coming from? 
+The data is sourced from Kaggle (an Excel extract), [see here to find it.](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data)
+
+
+
+
 ## Dataset Overview
 
 
